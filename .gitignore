@@ -1,3 +1,6 @@
+# build output
 _site
-.sass-cache
+
+# etc
 .jekyll-metadata
+.sass-cache
