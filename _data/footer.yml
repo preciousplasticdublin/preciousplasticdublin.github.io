@@ -1,0 +1,19 @@
+# Footer navigation links
+
+- title: Home
+  url: /
+
+- title: Privacy Statement
+  url: /privacy/  
+  
+- title: Facebook
+  url: https://www.facebook.com/preciousplasticdublin/
+
+- title: Instagram
+  url: https://www.instagram.com/preciousplasticdublin/
+
+- title: Twitter
+  url: https://twitter.com/DublinPlastic
+
+- title: Contact Us
+  url: /contact/

@@ -1,73 +1,90 @@
----
----
 <!DOCTYPE html>
-<html lang="{{page.lang}}">
+<html>
   <head>
+    
+    <!-- START Google Analytics tracker -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-136187826-1"></script>
+		<script>  
+		  window.dataLayer = window.dataLayer || [];  
+		  function gtag(){dataLayer.push(arguments);}  
+		  gtag('js', new Date());      
+	      gtag('config', 'UA-136187826-1');
+		</script>
+    <!-- END Google Analytics tracker -->
+    
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta name="twitter:image" content="/assets/images/touch-icon.png">
-
-    <link rel="apple-touch-icon" href="/assets/images/touch-icon.png">
-    <link rel="icon" href="/assets/images/favicon.png" type="image/png">
-
-    <meta property="og:title" content="{{site.title}}">
-    <meta property="og:image" content="/assets/images/touch-icon.png">
-    <meta property="og:description" content="{{site.description}}">
-    <meta name="description" content="{{site.description}}">
-
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-136187826-1', 'auto');
-      ga('send', 'pageview');
-    </script>
-
-    {% if page.url == '/news/' %}
-      <meta name="robots" content="noindex, nofollow">
+    <title>{% if page.title %}{{ page.title }} • {% endif %}{{ site.title }}</title>
+    {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
+    {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
+    {% if page.author %}
+      {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
     {% endif %}
+    {% include open-graph.html %}
 
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
+
+    <link href="{{ site.baseurl }}/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
+    <link href="{{ site.baseurl }}/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
+
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="cleartype" content="on">	
+  
+	<link href="https://fonts.googleapis.com/css?family=Varela+Round&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+    <!-- HTML5 Shiv and Media Query Support for IE -->
     <!--[if lt IE 9]>
-      <script src="/assets/js/html5shiv.min.js"></script>
+      <script src="{{ site.baseurl }}/js/vendor/html5shiv.min.js"></script>
+      <script src="{{ site.baseurl }}/js/vendor/respond.min.js"></script>
     <![endif]-->
+	
+	
 
-    <title>{% if page.title %}{{page.title}} &mdash; {{site.title}}{% else %}{{site.title}}{% endif %}</title>
-
-    <link href="//fonts.googleapis.com" rel="preconnect" crossorigin>
-    <link href="/assets/css/styles.css" rel="stylesheet">
-    <link rel="canonical" href="{{site.url}}">
   </head>
 
-  <body class="{{page.kind}}{% if page.url == "/" %} start{% endif %}">
+  <body id="js-body">
+    {% include browser-upgrade.html %}
     {% include header.html %}
+    {% include navigation-sliding.html %}
 
-    {{content}}
+    <div id="page-wrapper">
+      {{ content }}
+      {% include footer.html %}
+    </div>
 
-    {% include footer.html %}
-    <!--{% include overlay.html %} 
-	-->
+    <script src="{{ site.baseurl }}/js/vendor/jquery-1.9.1.min.js"></script>
+    <script src="{{ site.baseurl }}/js/main.js"></script>
+	
+	<!-- START open external links and PDFs in a new window -->
+	{% include external-links.html %}
+	<!-- END open external links and PDFs in a new windo -->
+	
+	<!-- START include gallery lightbox -->
+	{% include lightbox.html %}
+	<!-- END include gallery lightbox -->
+	
+	<!-- START include social media buttons -->
+	{% include follow-buttons.html %}
+	<!-- END include gallery lightbox -->
+	
+	<!-- JS to compare post dates with actual date -->
+	{% include future-dates.html %}
+	{% include past-dates.html %}
+    <!-- JS -->
+	
+	<!-- FOXYCART -->
+	<script data-cfasync="false" src="https://cdn.foxycart.com/zerowastefestival/loader.js" async defer></script>
+	<!-- /FOXYCART -->
+	
+	<!-- Facebook embedding post -->
+	<div id="fb-root"></div>
+	<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.3">
+	</script>
+    <!-- Facebook -->
 
-    <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
 
-    <script src="/assets/js/unslider.min.js"></script>
-    <script src="/assets/js/fitvid.min.js"></script>
-
-    {% if page.url contains "/video" %}
-      <script src="https://www.youtube.com/iframe_api" async></script>
-    {% endif %}
-
-    {% if page.url contains "/faq" %}
-      <script src="/assets/js/neat.min.js"></script>
-    {% endif %}
-
-    {% if page.url contains "/extra" %}
-      <script src="/assets/js/isotope.min.js"></script>
-    {% endif %}
-
-    <script src="/assets/js/sticky.min.js"></script>
-    <script src="/assets/js/app.js"></script>
   </body>
+
 </html>

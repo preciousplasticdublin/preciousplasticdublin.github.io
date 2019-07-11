@@ -1,36 +1,10 @@
-<footer id="copyright">
-  <a href="/{{page.lang}}/" class="logo"></a>
-  
-  <section id="areas">
-  Precious Plastic Dublin
-  </section>
-  
-<!--
-  <nav>
-    <a href="/{{page.lang}}/about">{{page.translations.about.title}}</a>
-    <a href="/{{page.lang}}/faq">{{page.translations.faq.title}}</a>
-    <a href="/{{page.lang}}/help-us">{{page.translations.help-us.title}}</a>
-    <a href="/{{page.lang}}/thanks">{{page.translations.thanks.title}}</a>
-    <a href="/{{page.lang}}/terms">{{page.translations.terms.title}}</a>
-    <a href="/{{page.lang}}/contact">{{page.translations.contact.title}}</a>
-    <a href="https://davehakkens.nl/donate/preciousplastic/">{{page.translations.donate.title}}</a>
-  </nav>
--->
-
-<!--
-  <a href="#" class="by" target="_blank">
-      <img src="/assets/images/by.gif">
--->
-  
-  <div class="row">
-  <div class="column">
-     <a href="https://www.facebook.com/preciousplasticdublin/" target="_blank"><img src="https://www.preciousplasticdublin.org/assets/images/social/facebook-bw.png" height=50px></a>
-  </div>
-  <div class="column">
-   <a href="https://www.instagram.com/preciousplasticdublin/" target="_blank"><img src="https://www.preciousplasticdublin.org/assets/images/social/instagram-bw.png" height=50px></a>
-  </div>
-</div>
-
-   
-  
+<footer role="contentinfo" id="site-footer">
+	<nav role="navigation" class="menu bottom-menu">
+		<ul class="menu-item">
+		{% for link in site.data.footer %}      
+		    <li><a href="{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+		{% endfor %}
+		</ul>
+	</nav><!-- /.bottom-menu -->
+	<p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.baseurl }}">{{ site.title }}</a> powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>, hosted on <a href="https://github.com/" rel="nofollow">Github</a>, maintained by <a href="https://www.janknappe.com/" rel="nofollow">Jan Knappe</a>.</p>
 </footer>

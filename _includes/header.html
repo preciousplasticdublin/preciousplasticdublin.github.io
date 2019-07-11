@@ -1,38 +1,33 @@
-<header id="menu">
-  <div class="container">
-    <a href="/{{page.lang}}" class="logo"></a>
-
-    <span class="toggle">
-      <b></b>
-      <b></b>
-      <b></b>
-    </span>
-
-    <div class="clearfix"></div>
-
-    <nav>
-        {% assign sorted = (site.pages | sort: "index") %}
-
-        {% for node in sorted %}
-
-        {% if node.lang != page.lang %}
-          {% continue %}
-        {% endif %}
-
-        {% assign current = nil %}
-
-        {% if page.url == node.url %}
-          {% assign current = "active" %}
-        {% endif %}
-
-        {% unless node.url == "/" or node.url contains "assets" or node.layout == "page" or node.kind == "error" %}
-          <a href="{{node.url}}" class="{{current}}">{{node.title}}</a>
-        {% endunless %}
-
-      {% endfor %}
-	  <!--
-      <a href="/{{page.lang}}/videos" class="start">{{page.translations.videos.title}}</a>
-	  -->
+ <header id="masthead">
+  <div class="inner-wrap">
+    <div class="header">
+      <a href="{{ site.baseurl }}/" class="site-title"><div class="image"></div></a>
+    </div>
+    <nav role="navigation" class="menu top-menu">
+        {% include navigation.html %}
     </nav>
-  </div>
-</header>
+  </div><!-- /.inner-wrap -->
+  
+<!-- START cookie notification plug-in -->  
+  <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#dddddd"
+    },
+    "button": {
+      "background": "#759e35"
+    }
+  },
+  "position": "bottom-right",
+  "content": {
+    "href": "https://www.zerowastefestival.ie/privacy/"
+  }
+})});
+</script>
+<!-- END cookie notification plug-in -->  
+
+</header><!-- /.masthead -->

@@ -1,57 +1,69 @@
+# ============================================================
+# _config.yml
+# 
+# configuration file for site wide settings
+# ============================================================
+
+#---------------------------
 # Site settings
+#---------------------------
+
 title: Precious Plastic Dublin
+email: info@preciousplasticdublin.org
+description: "Precious Plastic Dublin is a volunteer collective working on practical solutions to plastic waste and pollution in Dublin. As part of the Precious Plastic global movement, we aim to bring plastic recycling closer to the local community, enabling the public to transform their own waste, while demonstrating the remaining value of plastic waste."
 url: https://www.preciousplasticdublin.org
-baseurl: ''
-description: Turn plastic waste into new valuable things
+baseurl: ""
+locale: en
+feed:
+  path: feed.xml
 
-sass:
-  style: compressed
 
-exclude: ['CNAME', '*.md']
-permalink: pretty
+#---------------------------
+# Build settings
+#---------------------------
+
+permalink: /:categories/:title/
+include: ['_pages', '_events', '.htaccess']
+exclude: ['Gemfile', 'Gemfile.lock', 'node_modules', 'LICENSE.md', 'README.md', 'Gruntfile.js', 'package.json']
 
 plugins:
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 
-# This is used for the language selector, should contain native name of the
-# language and the language abbreviation used in the 'lang' variable of the
-# pages.
-languages:
-  - name: 'English'
-    key: 'en'
 
-# Set the lang variable for all files in the language directory
-defaults:
-  -
-    scope:
-      path: 'en'
-    values:
-      lang: 'en'
-      translations:
-        videos:
-          title: 'Start'
-          menu-title: 'Videos'
-          mobile-title: 'Chapters'
-        about:
-          title: 'About'
-        faq:
-          title: 'FAQ'
-        help-us:
-          title: 'Help Us'
-        thanks:
-          title: 'Thanks'
-        terms:
-          title: 'Terms'
-        contact:
-          title: 'Contact'
-        donate:
-          title: 'Donate'
-        by:
-          title: 'A project by Dave Hakkens'
-        overlay:
-          spread: 'Spread the knowledge!'
-          reach: 'Make sure it reaches your friend, uncle, and that farmer living in Africa.'
-          shares: 'Total shares:'
-          want: 'Help Precious Plastic'
-          SPREAD: 'BOOST'
-          magic: 'plastic recycling all over the world!'
+#---------------------------
+# Style settings
+#---------------------------
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+#---------------------------
+# Markdown settings
+#---------------------------
+
+kramdown:
+  toc_levels: 1..2
+highlighter: rouge
+
+
+#---------------------------
+# Author settings for posts
+#---------------------------
+
+owner:
+  name: Precious Plastic Dublin
+  email: info@preciousplasticdublin.org
+  twitter: DublinPlastic
+  bio: Precious Plastic Dublin is a volunteer collective working on practical solutions to plastic waste and pollution in Dublin. As part of the Precious Plastic global movement, we aim to bring plastic recycling closer to the local community, enabling the public to transform their own waste, while demonstrating the remaining value of plastic waste.
+  avatar: logo/precious-plastic-dublin-logo-120.png
+  
+#---------------------------
+# Social media
+#---------------------------
+  
+facebook_url: https://www.facebook.com/preciousplasticdublin/
+twitter_url: https://twitter.com/DublinPlastic
+instagram_url: https://www.instagram.com/preciousplasticdublin/

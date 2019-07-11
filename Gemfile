@@ -1,6 +1,7 @@
-source 'http://rubygems.org'
+# Skinny Bones Gemfile
+source "https://rubygems.org"
 
 gem "jekyll"
-gem "jekyll-paginate"
-gem "support-for"
 gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem "jekyll-feed"
