@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Celia Somlai
+title: Sean Hynes
 
 category: team
 
 image:
-  teaser : pages/team/celia-somlai.png
+  teaser : pages/team/sean-hynes.png
 ---
 
-Celia is our organiser and democratically elected decision maker. She has been intensively involved with the Zero Waste movement in Ireland for the last couple of years and is trying to live a low waste lifestyle. Her day job revolves around making sense of the Irish and European packaging waste statistics. In the rare occasion that she actually does create some plastic waste, she would prefer to upcycle it herself locally than shipping it off into the unknown. You can follow her Zero Waste Adventures on her [Instagram](https://www.instagram.com/zerowaste.adventures/) and [blog](http://www.celiasomlai.com).
+Sean has been working in IT for 15 years. He loves messing around with computers and electronics and taking longs walks on beaches picking up plastic as he goes to feed our hungry shredder. Sean is passionate about the environment and wants to help in any way he can to reduce the impact plastic is having on our planet and promote the idea that plastic is precious and should be treated so. 
+
