@@ -52,7 +52,7 @@
   }
   @include media(new-breakpoint(min-width em(480) 12)) {
     @include span-columns(4);
-    @include omega(4n);
+    @include omega(3n);
   }
   .post-title {
     @include font-size(24,no);
