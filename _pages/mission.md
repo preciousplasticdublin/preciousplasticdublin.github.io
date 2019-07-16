@@ -2,8 +2,6 @@
 layout: page
 permalink: /mission/
 title: "Our Mission"
-
-sidebar: true
 ---
 
 [Precious Plastic](https://preciousplastic.com) is a global project trying to boost plastic recycling on the local level. It aims to provide tools and knowledge to people for free, trying to give people solutions to fight plastic pollution. 
