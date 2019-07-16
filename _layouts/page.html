@@ -13,5 +13,6 @@ layout: default
 				{{ content }}
 			</div><!-- /.page-content -->
 		</div class="archive-wrap"><!-- /.archive-wrap -->
+		{% if page.sidebar == true %}<div class="ads">{% include sidebar.html %}</div><!-- /.sidebar -->{% endif %}
 	</div><!-- /.wrap -->
 </div><!-- /#main -->
