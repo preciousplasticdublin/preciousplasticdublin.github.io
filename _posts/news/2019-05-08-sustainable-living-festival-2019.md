@@ -16,12 +16,12 @@ Living sustainably can be a challenge, with a complex range of choices we can ma
 
 Our first official appearance with an info stand was at the [Sustainable Living Fair](https://www.facebook.com/events/national-botanic-gardens-of-ireland/sustainable-living-fair/292147068358956/) on the 11th of May 2019 in the [National Botanical Garden](http://botanicgardens.ie/), Glasnevin. We were among many other amazing exhibitors like [Refill Ireland](https://refill.ie/), the [Rediscovery Centre](http://www.rediscoverycentre.ie/about-us/) and [Seal Rescue Ireland](http://www.sealrescueireland.org/), just naming a few.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnationalbotanicgardens%2Fposts%2F1269925679824627&width=500" width="500" height="859" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+{% include image-gallery.html folder="/images/events/2019-05-sustainability-fair/gallery" %}
 
 Celia from our team also had a soap box talk inviting people to join us and support our movement.
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnationalbotanicgardens%2Fposts%2F1269925679824627&width=500" width="500" height="859" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-{% include image-gallery.html folder="/images/events/2019-05-sustainability-fair/gallery" %}
 
 This buzzing event helped people to discover practical, affordable tips on how to reduce your environmental footprint with achievable effort.
 
