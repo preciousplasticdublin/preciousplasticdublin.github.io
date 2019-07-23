@@ -12,7 +12,7 @@ Precious Plastic Dublin is a volunteer collective working on practical solutions
 
 - We will be at the [Dublin Maker Fair](http://www.dublinmaker.ie/). 
 
-{% include image-gallery.html folder="/images/events/2019-07-dublin-maker/gallery" %}
+{% include image-gallery.html folder="/images/events/2019-07-dublin-maker/gallery-top3" %}
 
 #### June 2019
 
