@@ -8,7 +8,7 @@ Precious Plastic Dublin is a volunteer collective working on practical solutions
 
 # Sign up for our newsletter
 
-Sign up for our [newsletter by clicking here](https://mailchi.mp/99718c0ae694/precious-plastic-dublin) and you receive our Top 5 tips on how to have a healthier relationship with plastic. 
+Sign up for our [Newsletter](/newsletter) and you receive our Top 5 tips on how to have a healthier relationship with plastic. 
 
 # News
 
