@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Precious Plastic Dublin at the Sustainable Living Festival 2019
+title: Sustainable Living Festival 2019
 
 category: 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet Precious Plastic Dublin at Electric Picnic
+title: Meet us at Electric Picnic
 
 category: 
 

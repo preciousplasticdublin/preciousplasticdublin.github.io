@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What a great time we had at the Dublin Maker
+title: Recap Dublin Maker
 
 category: 
 
