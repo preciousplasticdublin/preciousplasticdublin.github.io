@@ -9,21 +9,20 @@
     @include fill-parent;
   }
   @include media(new-breakpoint(min-width em(480) 12)) {
-    @include span-columns(3);
-    @include omega(4n);
-  }
-  .entry-date {
-    @include font-size(16,no);
-    color: lighten($text-color,25);
+    @include span-columns(4);
+    @include omega(3n);
   }
   .post-title {
-    @include font-size(18,no);
+    @include font-size(22,no);
+	text-align: left;
   }
   .post-excerpt {
-    @include font-size(16);
+    @include font-size(18);
+	text-align: left;
   }
   .post-teaser {
     position: relative;
+	text-align: center;
     display: block;
     &:after {
       content: '';
