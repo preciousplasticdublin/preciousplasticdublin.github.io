@@ -14,6 +14,9 @@ share: true
 
 # This is a test page
 
+{% include image-gallery.html folder="/images/events/2019-05-sustainability-fair/gallery" %}
+
+
 This is a list:
 1. Thing 1
 2. Thing 2 
