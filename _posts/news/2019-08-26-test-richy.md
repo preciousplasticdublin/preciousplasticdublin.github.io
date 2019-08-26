@@ -23,8 +23,7 @@ This is a list:
 3. Thing 3
 4. Thing 4
 
-<a href="https://www.youtube.com/watch?v=9ci1j_kAWfY
-" target="_blank"><img src="https://www.youtube.com/watch?v=9ci1j_kAWfY/0.jpg" 
+<a href="https://www.youtube.com/watch?v=9ci1j_kAWfY" target="_blank"><img src="https://www.youtube.com/watch?v=9ci1j_kAWfY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
