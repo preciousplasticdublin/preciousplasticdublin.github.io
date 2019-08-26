@@ -20,7 +20,7 @@ This is a list:
 3. Thing 3
 4. Thing 4
 
-This is a link to[Google](https://www.google.com/), Here is a link to the [Hompage] (/)
+This is a link to [Google](https://www.google.com/), Here is a link to the [Hompage](/)
 
 
 
