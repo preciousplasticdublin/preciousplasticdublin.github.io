@@ -20,8 +20,10 @@ Interested in joining the team of volunteers? Come to one of our Meet-ups or dro
 
 If you are a company with a sustainable ethos and would like to support our initiative you can request our sponsorship packages. You can also donate as an individual. Email us for details at [info@preciousplasticdublin.org](mailto:info@preciousplasticdublin.org) or send your donation to the following bank account:
 
+Name | Precious Plastic Dublin
 IBAN | IE35 AIBK 9320 8671 1060 42
-BIC: | AIBKIE2D
+BIC | AIBKIE2D
+Bank | AIB
 
 
 
