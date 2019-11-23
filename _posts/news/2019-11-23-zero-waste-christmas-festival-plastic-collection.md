@@ -45,13 +45,13 @@ Together with [Dr. Emmanual Reynaud](https://twitter.com/ReynaudEmmanuel) from U
 
 #### Crisp packets
 
-We will collect all brands of crisps packages for recycling with [Terracycle](https://www.terracycle.com/en-GB/brigades/crisppacket) in the UK. Crisp multipack outer packaging is accepted. Please do not fold the crisp packets into triangles. Please make sure your packets are completely empty before dropping them off. We unforunately cannot accept packaging that still contains residual food.
+We will collect all brands of crisps packages for recycling with [Terracycle](https://www.terracycle.com/en-GB/brigades/crisppacket) in the UK. Crisp multipack outer packaging is accepted. Please do not fold the crisp packets into triangles. Please make sure your packets are completely empty before dropping them off. We unfortunately cannot accept packaging that still contains residual food.
 
 ![Crisp packets](/images/posts/zwf-collection-crisps.png "Crisp packets")
 
 #### Biscuit, cracker and cake wrappers
 
-We will collect all brands of non-savoury biscuit wrappers, cracker wrappers and cake wrappers for recycling with [Terracycle](https://www.terracycle.com/en-GB/brigades/pladis) in the UK. Please make sure your packets are completely empty before dropping them off. We unforunately cannot accept packaging that still contains residual food.
+We will collect all brands of non-savoury biscuit wrappers, cracker wrappers and cake wrappers for recycling with [Terracycle](https://www.terracycle.com/en-GB/brigades/pladis) in the UK. Please make sure your packets are completely empty before dropping them off. We unfortunately cannot accept packaging that still contains residual food.
 
 ![Biscuit, cracker and cake wrappers](/images/posts/zwf-collection-biscuits.png "Biscuit, cracker and cake wrappers")
 
