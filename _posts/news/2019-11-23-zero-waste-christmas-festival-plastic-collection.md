@@ -39,7 +39,7 @@ We accept clean and dry HDPE bottle caps from drinking bottles, milk jugs, and d
 
 #### Green PET bottles
 
-Together with [Dr. Emmanual Reynauld](https://twitter.com/ReynaudEmmanuel) from UCD we will collect all sizes of green PET bottles for upcycling into Christmas trees and Christmas decoration. Don't miss out on the workshop Upcycling Workshop with Emmanuel at 14:30 in the workshop room upstairs.
+Together with [Dr. Emmanual Reynaud](https://twitter.com/ReynaudEmmanuel) from UCD we will collect all sizes of green PET bottles for upcycling into Christmas trees and Christmas decoration. Don't miss out on the Upcycling Workshop with Emmanuel at 14:30 in the workshop room upstairs.
 
 ![Green PET bottles](/images/posts/zwf-collection-green-pet.png "Green PET bottles")
 
