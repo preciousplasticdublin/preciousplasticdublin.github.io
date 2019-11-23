@@ -18,7 +18,7 @@ Precious Plastic Dublin will be at the upcoming Zero Waste Christmas Festival in
 
 ### Where and When?
 
-This year's [Zero Waste Christmal Festival](https://www.zerowastefestival.ie/christmas-festival-2019/) will be hosted at The George Bar](http://thegeorge.ie/) in [89 South Great George's Street](https://goo.gl/maps/VmcQiFwirShH7JrC7), Dublin 2, from 12 noon to 6 pm on Sunday, December 1st, 2019.
+This year's [Zero Waste Christmal Festival](https://www.zerowastefestival.ie/christmas-festival-2019/) will be hosted at [The George Bar](http://thegeorge.ie/) in [89 South Great George's Street](https://goo.gl/maps/VmcQiFwirShH7JrC7), Dublin 2, from 12 noon to 6 pm on Sunday, December 1st, 2019.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9527.89122139659!2d-6.2646836!3d53.343743!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1773eaac8a822f7c!2sThe%20George!5e0!3m2!1sen!2sus!4v1573842647383!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
@@ -39,7 +39,7 @@ We accept clean and dry HDPE bottle caps from drinking bottles, milk jugs, and d
 
 #### Green PET bottles
 
-Tpgether with [Dr. Emmanual Reynauld](https://twitter.com/ReynaudEmmanuel) from UCD we will collect all sizes of green PET bottles for upcycling into Christmas trees and Christmas decoration. Don't miss out on the workshop Upcycling Workshop with Emmanuel at 14:30 in the workshop room upstairs.
+Together with [Dr. Emmanual Reynauld](https://twitter.com/ReynaudEmmanuel) from UCD we will collect all sizes of green PET bottles for upcycling into Christmas trees and Christmas decoration. Don't miss out on the workshop Upcycling Workshop with Emmanuel at 14:30 in the workshop room upstairs.
 
 ![Green PET bottles](/images/posts/zwf-collection-green-pet.png "Green PET bottles")
 
