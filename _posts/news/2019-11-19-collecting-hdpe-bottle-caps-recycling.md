@@ -8,7 +8,7 @@ category:
 
 image:
   feature: posts/hdpe-caps-collection-feature.jpg
-  teaser : posts/hdpe-caps-collection-feature.jpg
+  teaser : posts/hdpe-caps-collection-teaser.jpg
 
 sidebar: true
 share: true
