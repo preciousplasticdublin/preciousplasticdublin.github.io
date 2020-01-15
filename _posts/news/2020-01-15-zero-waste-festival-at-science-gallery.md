@@ -35,13 +35,13 @@ We accept clean and dry HDPE bottle caps from drinking bottles, milk jugs, and d
 
 
 ### Upcycling Workshop with Emmanuel
+
 [Dr. Emmanuel Reynaud](https://twitter.com/ReynaudEmmanuel) from UCD run again his upcycling workshop on Saturday between 12.30 and 2 pm upstairs next to the clothes swap shop.
 
 ### [Precious Plastic?! – Facts and figures on global plastic abundance and what we can do about it with Celia Somlai](https://www.zerowastefestival.ie/science-gallery-2020/#celia)
 
 [Celia](/team/) is one of the co-founders of Precious Plastic Dublin and her day job is to investigate Irish and European packaging waste statistics at UCD. 
 
-####
 Have you ever wondered how much plastic has been generated in total on this planet? And how much of that plastic actually has been recycled? Which industry produces the largest amount of plastic annually? Or which polymer is the most commonly used worldwide? Come to this informative talk to learn not only about the latest facts and figures, but also about practical solutions to this global challenge. Celia will also introduce you to the [Precious Plastic Universe](https://preciousplastic.com/), an alternative, grass roots, plastic recycling community.
 
 
