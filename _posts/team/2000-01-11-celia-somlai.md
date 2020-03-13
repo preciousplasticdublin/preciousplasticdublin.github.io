@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Celia Somlai
+status: active
 
 category: team
 

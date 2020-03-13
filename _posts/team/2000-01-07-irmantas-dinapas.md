@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Irmantas Dinapas
+status: active
 
 category: team
 

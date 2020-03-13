@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bernd Peters
+status: active
 
 category: team
 

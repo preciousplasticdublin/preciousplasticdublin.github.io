@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sinead Corcoran
+status: former
 
 category: team
 

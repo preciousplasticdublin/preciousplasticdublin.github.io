@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wouter Desmit
+status: former
 
 category: team
 

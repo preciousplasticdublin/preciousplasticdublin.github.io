@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Morane Senyarich
+status: former
 
 category: team
 

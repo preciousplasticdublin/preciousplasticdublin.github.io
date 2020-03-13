@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Chris Darling 
+status: active
 
 category: team
 

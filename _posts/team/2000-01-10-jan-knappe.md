@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jan Knappe
+status: active
 
 category: team
 

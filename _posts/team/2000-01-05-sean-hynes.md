@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sean Hynes
+status: active
 
 category: team
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Richard Neylon
+status: active
 
 category: team
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Anna Golovkina
+status: active
 
 category: team
 
