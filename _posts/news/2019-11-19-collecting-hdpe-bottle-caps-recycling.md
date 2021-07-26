@@ -24,6 +24,7 @@ Precious Plastic Dublin wants to give them a new life by shredding, melting and 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1GQjXoQwCjvLYv8Pjk2Pg90Rf1TYGJfjK" width="640" height="480"></iframe>
 
+
 ## How to set up a collection point?
 
 Interested in supporting us? Then set up a collection point for Precious Plastic Dublin at your workspace, office or school! Simply [download the label here or by clicking on the image below](/images/posts/hdpe-caps-collection-label.pdf) and stick it onto a reused 5L water bottle or a cardboard box. And don’t forget to let the people around you know! When it’s full, you can drop it off to us during one of [our bi-weekly meetings](https://www.meetup.com/Precious-Plastic-Dublin/) or email us at [info@preciousplasticdublin.org](mailto:info@preciousplasticdublin.org) to organise a meet-up or pick-up in Dublin. 
