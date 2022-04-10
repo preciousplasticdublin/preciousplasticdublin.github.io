@@ -20,7 +20,8 @@ Thanks to some great collabartaion between Ballymun Youthreach, Unblackboxed and
 
 Take a look at this video to learn more: 
 
-<iframe src="https://vimeo.com/468740329" frameborder="0" allowfullscreen class="video"></iframe>
+
+<iframe src="https://player.vimeo.com/video/468740329" frameborder="0" allowfullscreen class="video"></iframe>
 
 #### More info:
 
