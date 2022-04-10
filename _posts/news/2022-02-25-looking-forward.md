@@ -6,7 +6,7 @@ category:
 
 image:
   #feature: 
-  teaser: teasers/CranePic.png
+  teaser: teasers/Badges.png
 
 sidebar: true
 share: true
