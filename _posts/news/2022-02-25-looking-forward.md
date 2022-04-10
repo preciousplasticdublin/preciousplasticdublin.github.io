@@ -6,7 +6,7 @@ category:
 
 image:
   #feature: 
-  teaser: teasers/Badges.png
+  teaser: teasers/Badges.jpg
 
 sidebar: true
 share: true
