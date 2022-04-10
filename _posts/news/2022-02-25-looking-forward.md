@@ -21,9 +21,9 @@ We though now would be a good time to say how things were going with PPD and who
 Chris has been at the centre of Precious Plastic Dublin for a good few years now and has been instrumental in helping the group make some of it's biggest steps.
 
 
-<p align="center">
-  {% include image-gallery.html folder="/images/posts/Chris from Precious Plastic Dublin.png" %}
-</p>
+<center>
+  {% include image-gallery.html folder="/images/posts/Chris from Precious Plastic Dublin.png" caption="Chris from Precious Plastic Dublin" %}
+</center>
 
 
 So here is a little Q and A with Chris:
@@ -68,4 +68,4 @@ Effect policy change on the manufacture of plastic so that’s its very readily 
 We can do this, where there’s a will there’s a way.
 
 
-{% include image-gallery.html folder="/images/posts/Looking forward to meeting the gang again!.jpg" %}
+{% include image-gallery.html folder="/images/posts/Looking forward to meeting the gang again!.jpg" caption="Looking forward to meeting the gang again!" max-width="800" %}
