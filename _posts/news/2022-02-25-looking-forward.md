@@ -16,7 +16,7 @@ Restrictions are being eased, vaccines are proving affective and tentitavive pla
 There are plenty of green shoots of optimism that we may be returning to some of pre pandemic activites.
 
 For the Precious Plastic Dublin team this is big news. Meeting in person and taking part in community events has been been a way of helping to spread a message of sustainability and also energising the group through positive social interaction.
-We though now would be a good time to say how things were going with PPD and who better to talk to than Chris Dowling.
+We though now would be a good time to say how things were going with PPD and who better to talk to than Chris Darling.
 
 Chris has been at the centre of Precious Plastic Dublin for a good few years now and has been instrumental in helping the group make some of it's biggest steps.
 
