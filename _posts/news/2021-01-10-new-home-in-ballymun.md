@@ -25,4 +25,4 @@ Take a look at this video to learn more:
 
 #### More info:
 
-More info about Ballymun Youthreach can be found [here.](https://ballymunyr.ie/2020/12/ballymun-youthreach-launch-new-3d-printing-project-with-unblackboxed-and-precious-plastic/). 
+More info about Ballymun Youthreach can be found [here.](https://ballymunyr.ie/2020/12/ballymun-youthreach-launch-new-3d-printing-project-with-unblackboxed-and-precious-plastic/)
