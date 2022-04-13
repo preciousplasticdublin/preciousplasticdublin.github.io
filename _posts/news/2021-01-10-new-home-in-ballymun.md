@@ -20,7 +20,9 @@ Thanks to some great collabartaion between Ballymun Youthreach, Unblackboxed and
 
 Take a look at this video to learn more: 
 
-<iframe src="https://player.vimeo.com/video/468740329?h=3d91e1a30a&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<video width="100%" preload="auto" muted controls>
+    <source src="/images/Videos/precious_plastic (360p).mp4" type="video/mp4"/>
+</video>
 
 #### More info:
 
