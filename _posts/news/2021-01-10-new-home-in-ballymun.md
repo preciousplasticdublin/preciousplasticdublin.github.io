@@ -20,8 +20,8 @@ Thanks to some great collabartaion between Ballymun Youthreach, Unblackboxed and
 
 Take a look at this video to learn more: 
 
-
-<iframe src="https://http://player.vimeo.com/468740329" frameborder="0" allowfullscreen class="video"></iframe>
+<iframe src="https://player.vimeo.com/video/468740329?h=3d91e1a30a&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/468740329">Precious Plastic</a> from <a href="https://vimeo.com/breadandcircusirl">Bread&amp;Circus</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 #### More info:
 
