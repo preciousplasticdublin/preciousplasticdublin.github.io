@@ -22,7 +22,7 @@ Chris has been at the centre of Precious Plastic Dublin for a good few years now
 
 
 <center>
-  {% include image-gallery.html folder="/images/posts/Chris from PPD.png" caption="Chris from PPD" %}
+  {% include image-gallery.html folder="/images/posts/Chris from PPD.jpeg" caption="Chris from PPD" %}
 </center>
 
 
