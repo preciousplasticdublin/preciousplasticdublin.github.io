@@ -22,7 +22,7 @@ Precious Plastic Dublin wants to give them a new life by shredding, melting and 
 
 ## Where are public collection points?
 
-<iframe src="https://www.google.com/maps/d/edit?mid=1uX7uvlYaqjSyGuxM46El26dTZcONH-k&usp=sharing" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1uX7uvlYaqjSyGuxM46El26dTZcONH-k&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 ## How to set up a collection point?
