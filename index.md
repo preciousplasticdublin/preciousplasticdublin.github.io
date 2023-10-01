@@ -6,7 +6,7 @@ permalink: /
 
 Precious Plastic Dublin is a volunteer collective working on practical solutions to plastic waste and pollution in Dublin. As part of the [Precious Plastic](https://preciousplastic.com) global movement, we aim to bring plastic recycling closer to the local community, enabling the public to transform their own waste, while demonstrating the remaining value of plastic waste. 
 
-# Please note that the Ballymun Youthreach Centre is closed for Summer break at the moment so please wait until further notice to send your cap collections.
+<! -- # Please note that the Ballymun Youthreach Centre is closed for Summer break at the moment so please wait until further notice to send your cap collections. -->
 
 Sign up for our [Newsletter](/newsletter) and receive our Top 5 tips on how to have a healthier relationship with plastic. 
 
