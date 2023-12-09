@@ -2,7 +2,7 @@
 layout: page
 permalink: /
 ---
-# Please Note:
+
 Please note that the Ballymun Youthreach Centre is closed for Christmas break between December 20th and 7th of January so please do not send your caps around that period.
 # Big News: 
 Work on the Ballymun Workshop is almost complete and so we would be very appreciative if all caps could be sent there from now on(Please keep the notice about the Christmas Closure above in mind).
