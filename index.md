@@ -2,9 +2,10 @@
 layout: page
 permalink: /
 ---
-#Please Note:
+# Please Note:
 Please note that the Ballymun Youthreach Centre is closed for Christmas break between December 20th and 7th of January so please do not send your caps around that period.
-#Big News: Work on the Ballymun Workshop is almost complete and so we would be very appreciative if all caps could be sent there from now on(Please keep the notice about the Christmas Closure above in mind).
+# Big News: 
+Work on the Ballymun Workshop is almost complete and so we would be very appreciative if all caps could be sent there from now on(Please keep the notice about the Christmas Closure above in mind).
 
 Precious Plastic Dublin is a volunteer collective working on practical solutions to plastic waste and pollution in Dublin. As part of the [Precious Plastic](https://preciousplastic.com) global movement, we aim to bring plastic recycling closer to the local community, enabling the public to transform their own waste, while demonstrating the remaining value of plastic waste. 
 
