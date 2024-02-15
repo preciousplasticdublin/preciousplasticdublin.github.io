@@ -3,16 +3,11 @@ layout: page
 permalink: /
 ---
 
-
-# Big News: Work on the Ballymun Workshop is almost complete and so we would be very appreciative if all caps could be sent there from now on.
-
-Please send all caps to: Precious Plastic Dublin @ Ballymun Youthreach Beside Library, Ballymun Road, Dublin 11.
-
-
-
-# Who we are and what we do: 
 Precious Plastic Dublin is a volunteer collective working on practical solutions to plastic waste and pollution in Dublin. As part of the [Precious Plastic](https://preciousplastic.com) global movement, we aim to bring plastic recycling closer to the local community, enabling the public to transform their own waste, while demonstrating the remaining value of plastic waste.
 
+# Big News: 
+Work on the Ballymun Workshop is almost complete and so we would be very appreciative if all caps could be sent there from now on.
+Please send all caps to: Precious Plastic Dublin @ Ballymun Youthreach Beside Library, Ballymun Road, Dublin 11.
 
 
 Sign up for our [Newsletter](/newsletter) and receive our Top 5 tips on how to have a healthier relationship with plastic. 
