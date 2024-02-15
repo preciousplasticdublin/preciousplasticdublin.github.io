@@ -20,19 +20,23 @@ Precious Plastic Dublin wants to give them a new life by shredding, melting and 
 
 {% include toc.html %}
 
-## Where are public collection points?
+## Where to send the caps?
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1uX7uvlYaqjSyGuxM46El26dTZcONH-k&ehbc=2E312F" width="640" height="480"></iframe>
+Please send all caps to:
+Precious Plastic Dublin  @ Ballymun Youthreach
+Beside Library, Ballymun Road, Dublin 11.
+
+<!--- <iframe src="https://www.google.com/maps/d/embed?mid=1uX7uvlYaqjSyGuxM46El26dTZcONH-k&ehbc=2E312F" width="640" height="480"></iframe>  --->
 
 
-## How to set up a collection point?
+<!---  ## How to set up a collection point?
 
 Interested in supporting us? Then set up a collection point for Precious Plastic Dublin at your workspace, office or school! Simply [download the label here or by clicking on the image below](/images/posts/hdpe-caps-collection-label.pdf) and stick it onto a reused 5L water bottle or a cardboard box. And don’t forget to let the people around you know! When it’s full, you can drop it off to us during one of [our bi-weekly meetings](https://www.meetup.com/Precious-Plastic-Dublin/) or email us at [info@preciousplasticdublin.org](mailto:info@preciousplasticdublin.org) to organise a meet-up or pick-up in Dublin. 
 
 It would be nice if you could let us know that you're collecting by [filling out this short form](/hdpe-collection-form) and please do not forget to indicate if it is a public collection point so we can add you to our map.
 
 
-[![HDPE collection label](/images/posts/hdpe-caps-collection-label.jpg "HDPE collection label")](/images/posts/hdpe-caps-collection-label.pdf)
+[![HDPE collection label](/images/posts/hdpe-caps-collection-label.jpg "HDPE collection label")](/images/posts/hdpe-caps-collection-label.pdf)   --->
 
 ## Why the caps?
 
