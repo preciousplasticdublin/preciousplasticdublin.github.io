@@ -4,8 +4,10 @@ permalink: /
 ---
 
 
-# Big News: 
-Work on the Ballymun Workshop is almost complete and so we would be very appreciative if all caps could be sent there from now on.
+# Big News: Work on the Ballymun Workshop is almost complete and so we would be very appreciative if all caps could be sent there from now on.
+
+Please send all caps to: Precious Plastic Dublin @ Ballymun Youthreach Beside Library, Ballymun Road, Dublin 11.
+
 
 
 # Who we are and what we do: 
