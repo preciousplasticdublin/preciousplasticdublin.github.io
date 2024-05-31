@@ -12,7 +12,7 @@ Great! You would like to get involved? Be it as a volunteer donating your time a
 
 Please send all caps to: Precious Plastic Dublin @ Ballymun Youthreach Beside Library, Ballymun Road, Dublin 11.
 
-Find out more information here: [Collecting hdpe bottle caps](preciousplasticdublin.github.io/_posts/news/2021-06-19-collecting-hdpe-bottle-caps-recycling)
+Find out more information here: [Collecting hdpe bottle caps](https://www.preciousplasticdublin.org/collecting-hdpe-bottle-caps-recycling/)
 
 ### Volunteer with us
 
