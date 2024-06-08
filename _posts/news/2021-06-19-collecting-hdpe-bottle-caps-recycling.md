@@ -26,7 +26,7 @@ Please send all caps to:
 Precious Plastic Dublin  @ Ballymun Youthreach
 Beside Library, Ballymun Road, Dublin 11.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1uX7uvlYaqjSyGuxM46El26dTZcONH-k&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="[https://www.google.com/maps/d/embed?mid=1uX7uvlYaqjSyGuxM46El26dTZcONH-k&ehbc=2E312F" width="640" height="480"></iframe>
 
 
 <!---  ## How to set up a collection point?
