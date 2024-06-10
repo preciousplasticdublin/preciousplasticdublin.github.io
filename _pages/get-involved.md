@@ -8,7 +8,7 @@ Great! You would like to get involved? Be it as a volunteer donating your time a
 
 ### Collect
 
-![PPD Meetup]({{ site.baseurl }}/images/posts/hdpe-caps-collection-feature.jpg "Cap Collection"){:style="float: top;margin-right: 10px;height: 150px;"}
+![PPD Meetup]({{ site.baseurl }}/images/posts/hdpe-caps-collection-label.jpg "Cap Collection"){:style="float: top;margin-right: 10px;height: 150px;"}
 
 Please send all caps to: Precious Plastic Dublin @ Ballymun Youthreach Beside Library, Ballymun Road, Dublin 11.
 
