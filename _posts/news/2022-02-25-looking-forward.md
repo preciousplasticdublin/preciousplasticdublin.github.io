@@ -12,17 +12,17 @@ sidebar: true
 share: true
 ---
 
-Restrictions are being eased, vaccines are proving affective and tentitavive plans for social gatherings are starting to be made again. 
-There are plenty of green shoots of optimism that we may be returning to some of pre pandemic activites.
+Restrictions are being eased, vaccines are proving affective and tentative plans for social gatherings are starting to be made again. 
+There are plenty of green shoots of optimism that we may be returning to some of pre pandemic activities.
 
 For the Precious Plastic Dublin team this is big news. Meeting in person and taking part in community events has been been a way of helping to spread a message of sustainability and also energising the group through positive social interaction.
-We though now would be a good time to say how things were going with PPD and who better to talk to than Chris Darling.
+We though now would be a good time to say how things were going with PPD and who better to talk to than Chris D.
 
 Chris has been at the centre of Precious Plastic Dublin for a good few years now and has been instrumental in helping the group make some of it's biggest steps.
 
 
 <center>
-  {% include image-gallery.html folder="/images/posts/Chris from PPD.jpeg" caption="Chris from PPD" %}
+  {% include image-gallery.html folder="/images/events/2019-07-dublin-maker/gallery-top3/Building%20a%20machine%20prototype.jpg" caption="PPD at work" %}
 </center>
 
 
