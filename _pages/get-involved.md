@@ -4,7 +4,7 @@ permalink: /get-involved/
 title: "Get Involved"
 ---
 
-# Note about Re-turn scheme: All bottle caps from the Re-turn scheme should go to the Re-turn scheme. Please see [Re-turn.ie](https://re-turn.ie)
+# Note about Re-turn scheme: All bottle caps from the Re-turn scheme should stay within the Re-turn scheme. Please see [Re-turn.ie](https://re-turn.ie)
 
 Great! You would like to get involved? Be it as a volunteer donating your time and skills to our cause or as a sponsor providing us with some change for buying machines and renting premises, you came to the right place!
 
