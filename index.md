@@ -5,7 +5,7 @@ permalink: /
 
 Precious Plastic Dublin is a volunteer collective working on practical solutions to plastic waste and pollution in Dublin. As part of the [Precious Plastic](https://preciousplastic.com) global movement, we aim to bring plastic recycling closer to the local community, enabling the public to transform their own waste, while demonstrating the remaining value of plastic waste.
 
-# Note about Re-turn scheme: All bottle caps from the Re-turn scheme should go to the Re-turn scheme. Please see [Re-turn](https://re-turn.ie)
+# Note about Re-turn scheme: All bottle caps from the Re-turn scheme should go to the Re-turn scheme. Please see [Re-turn.ie](https://re-turn.ie)
 
 # Big News: 
 Work on the Ballymun Workshop is almost complete and so we would be very appreciative if all caps could be sent there from now on.
