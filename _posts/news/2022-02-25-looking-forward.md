@@ -22,7 +22,7 @@ Chris has been at the centre of Precious Plastic Dublin for a good few years now
 
 
 <center>
-  {% include image-gallery.html folder="/images/events/2019-07-dublin-maker/gallery-top3/Building%20a%20machine%20prototype.jpg" caption="PPD at work" %}
+  {% include image-gallery.html folder="/images/events/2019-07-dublin-maker/gallery-top3/Building-a-machine-prototype.jpg" caption="PPD at work" %}
 </center>
 
 
