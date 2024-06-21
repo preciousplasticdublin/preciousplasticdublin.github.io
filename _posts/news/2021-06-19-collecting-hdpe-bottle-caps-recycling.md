@@ -14,6 +14,8 @@ sidebar: true
 share: true
 ---
 
+# Note about Re-turn scheme: All bottle caps from the Re-turn scheme should go to the Re-turn scheme. Please see [Re-turn.ie](https://re-turn.ie)
+
 Stop! Don’t throw away your plastic bottle and drink carton caps! We’ve got a plan to put them to good use!
 
 Precious Plastic Dublin wants to give them a new life by shredding, melting and remoulding them into new, long-lasting products such as bowls, flower pots, clipboards, coasters and much, much more.
