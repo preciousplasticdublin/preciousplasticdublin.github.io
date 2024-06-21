@@ -12,7 +12,7 @@ sidebar: true
 share: true
 ---
 
-####  * Please note that this interview was done before the Re-turn scheme. All bottle caps from the Re-turn scheme should go to the Re-turn scheme.
+# Note about Re-turn scheme: All bottle caps from the Re-turn scheme should stay within the Re-turn scheme. Please see [Re-turn.ie](https://re-turn.ie)
 
 Restrictions are being eased, vaccines are proving affective and tentative plans for social gatherings are starting to be made again. 
 There are plenty of green shoots of optimism that we may be returning to some of pre pandemic activities.
