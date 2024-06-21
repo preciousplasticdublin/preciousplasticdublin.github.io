@@ -12,17 +12,19 @@ sidebar: true
 share: true
 ---
 
+####  * Please note that this interview was done before the Re-turn scheme. All bottle caps from the Re-turn scheme should go to the Re-turn scheme.
+
 Restrictions are being eased, vaccines are proving affective and tentative plans for social gatherings are starting to be made again. 
 There are plenty of green shoots of optimism that we may be returning to some of pre pandemic activities.
 
 For the Precious Plastic Dublin team this is big news. Meeting in person and taking part in community events has been been a way of helping to spread a message of sustainability and also energising the group through positive social interaction.
 We though now would be a good time to say how things were going with PPD and who better to talk to than Chris D.
 
-Chris has been at the centre of Precious Plastic Dublin for a good few years now and has been instrumental in helping the group make some of it's biggest steps.
+Chris has been at the centre of Precious Plastic Dublin for a good few years now and has been instrumental in helping the group take some of it's biggest steps.
 
 
 <center>
-  {% include image-gallery.html folder="/images/events/2019-07-dublin-maker/gallery-top3/Building-a-machine-prototype.jpg" caption="PPD at work" %}
+  {% include image-gallery.html folder="/images/events/2019-07-dublin-maker/gallery-top3/Building a machine prototype.jpg" caption="PPD at work" %}
 </center>
 
 
