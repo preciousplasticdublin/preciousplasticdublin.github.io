@@ -14,7 +14,7 @@ sidebar: true
 share: true
 ---
 
-# Please note: Ballymun is closed for the summer until August 26th
+{% comment %} # Please note: Ballymun is closed for the summer until August 26th {% endcomment %} 
 
 # Note about Re-turn scheme: All bottle caps from the Re-turn scheme should stay within the Re-turn scheme. Please see [Re-turn.ie](https://re-turn.ie)
 
