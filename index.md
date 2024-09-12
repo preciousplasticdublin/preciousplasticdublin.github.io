@@ -5,7 +5,7 @@ permalink: /
 
 Precious Plastic Dublin is a volunteer collective working on practical solutions to plastic waste and pollution in Dublin. As part of the [Precious Plastic](https://preciousplastic.com) global movement, we aim to bring plastic recycling closer to the local community, enabling the public to transform their own waste, while demonstrating the remaining value of plastic waste.
 
-# Please note: Ballymun is closed for the summer until August 26th
+{% comment %} # Please note: Ballymun is closed for the summer until August 26th {% endcomment %} 
 
 # Note about Re-turn scheme: All bottle caps from the Re-turn scheme should stay within the Re-turn scheme. Please see [Re-turn.ie](https://re-turn.ie)
 
