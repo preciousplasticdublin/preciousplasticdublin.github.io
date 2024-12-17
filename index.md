@@ -7,9 +7,11 @@ Precious Plastic Dublin is a volunteer collective working on practical solutions
 
 {% comment %} # Please note: Ballymun is closed for the summer until August 26th {% endcomment %} 
 
+## Please note: Our storage facility in Ballymun will be closed for Xmas holidays from December 20th to January 6th. We wish all of our donators a Merry Christmas and look forward to a precious and creative 2025!
+
 # Note about Re-turn scheme: All bottle caps from the Re-turn scheme should stay within the Re-turn scheme. Please see [Re-turn.ie](https://re-turn.ie)
 
-# Big News: 
+Big News: 
 Work on the Ballymun Workshop is almost complete and so we would be very appreciative if all caps could be sent there from now on.
 Please send all caps to: Precious Plastic Dublin @ Ballymun Youthreach Beside Library, Ballymun Road, Dublin 11.(But please note Ballymun is closed for the summer until August 26th)
 
