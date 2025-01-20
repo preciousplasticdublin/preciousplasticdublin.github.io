@@ -7,7 +7,7 @@ Precious Plastic Dublin is a volunteer collective working on practical solutions
 
 {% comment %} # Please note: Ballymun is closed for the summer until August 26th {% endcomment %} 
 
-{% comment %} ## Please note: Our storage facility in Ballymun will be closed for Xmas holidays from December 20th to January 6th. We wish all of our donators a Merry Christmas and look forward to a precious and creative 2025!
+{% comment %} ## Please note: Our storage facility in Ballymun will be closed for Xmas holidays from December 20th to January 6th. We wish all of our donators a Merry Christmas and look forward to a precious and creative 2025! {% endcomment %} 
 
 # Note about Re-turn scheme: All bottle caps from the Re-turn scheme should stay within the Re-turn scheme. Please see [Re-turn.ie](https://re-turn.ie)
 
