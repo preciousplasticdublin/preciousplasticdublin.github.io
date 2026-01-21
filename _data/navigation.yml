@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: News
-  url: /_posts/
+  url: /news/
   
 - title: About
   url: /about/
