@@ -5,7 +5,7 @@ title: Precious Plastic Edu-Bus
 category: 
 
 image:
-  feature: posts/edubus.jpg
+  #feature: posts/edubus.jpg
   teaser: posts/edubus.jpg
 
 sidebar: true
