@@ -20,7 +20,6 @@ Last year, we delivered edu recycling workshops to a local school in Dublin, St 
 
 
 
-<iframe src="https://www.kilians.com/news/2025/our-primary-school-green-school-committee-enjoys-a-special-visit-from-precious-plastic-dublin/" width="500" height="859" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
 
 
